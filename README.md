@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruthala kiran</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working as an **intern with Navieo.**
+- 🔭 EX **intern with Navieo.**
 
 - 🌱 I’m currently learning **Full Stack**
 
