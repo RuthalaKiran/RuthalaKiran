@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with **Full Stack developers**
 
-- 💬 Ask me about **HTML, CSS, JS, REACT, PYTHON, MERN**
+- 💬 Ask me about **HTML, CSS, JS, REACT, PYTHON, MERN, Java, Springboot, Microservices, Typescript, Docker, Cloud, SQL, Spring data JPA**
 
 - 📫 reach me **kiranruthalakiran@gmail.com**
 
