@@ -3,7 +3,7 @@
 
 - 💻 Currently working as a **Associate Engineer at Virtusa** 
 
-- 🔭 EX **intern with Navieo. Freelance Full Stack Developer**
+- 🔭 EX **intern with Navieo, Freelance Full Stack Developer**
 
 - 🌱 Currently learning and building as a **Full Stack Developer & AI-Native Engineer** 
 
