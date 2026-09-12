@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ruthala kiran</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 💻 Currently working as a **Freelance Full Stack Developer** 
+- 💻 Currently working as a **Associate Engineer at Virtusa** 
 
-- 🔭 EX **intern with Navieo.**
+- 🔭 EX **intern with Navieo. Freelance Full Stack Developer**
 
-- 🌱 Currently learning and building as a **Full Stack Developer** 
+- 🌱 Currently learning and building as a **Full Stack Developer & AI-Native Engineer** 
 
-- 👯 I’m looking to collaborate with **Full Stack developers**
+- 👯 I’m looking to collaborate with **Full Stack developers & AI Engineers**
 
-- 💬 Ask me about **HTML, CSS, JS, REACT, PYTHON, MERN, Java, Springboot, Microservices, Typescript, Docker, Cloud, SQL, Spring data JPA**
+- 💬 Ask me about **HTML, CSS, JS, REACT, PYTHON, MERN, Java, Springboot, Microservices, Typescript, Docker, Cloud, SQL, Spring data JPA, AI**
 
 - 📫 reach me **kiranruthalakiran@gmail.com**
 
